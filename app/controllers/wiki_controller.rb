@@ -1,2 +1,0 @@
-class WikiController < ApplicationController
-end
