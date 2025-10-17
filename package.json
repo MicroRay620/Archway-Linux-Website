@@ -1,0 +1,24 @@
+{
+  "name": "archway-linux-website",
+  "version": "1.0.0",
+  "description": "The website for the documentation of Archway Linux. An accessibility and education focused Arch Distro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicroRay620/Archway-Linux-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicroRay620/Archway-Linux-Website/issues"
+  },
+  "homepage": "https://github.com/MicroRay620/Archway-Linux-Website#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
